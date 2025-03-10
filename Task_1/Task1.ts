@@ -61,3 +61,8 @@ for(let i:number = 0 ; i < Arr.length ; i++)
 console.log('\n\n\n');
 console.log(Sum);
 console.log('\n\n\n');
+
+
+
+
+
